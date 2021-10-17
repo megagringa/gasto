@@ -1,10 +1,10 @@
 # gasto
 
-# #
+# #GastoSemanal
 
-### [ok](https://megagringa.github.io/gasto/index.html)
+### [UsodeDineroSemanal](https://megagringa.github.io/gasto/index.html)
 
-Proyecto : trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
+Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js. 
 
 
@@ -18,4 +18,4 @@ Proyecto : trabajado desde Udemy - El proyecto viene con una estructura armada e
     - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - .
+    - Simulador de Gastos.
