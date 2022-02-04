@@ -1,5 +1,3 @@
-# gasto
-
 # #GastoSemanal
 
 ### [UsodeDineroSemanal](https://megagringa.github.io/gasto/index.html)
