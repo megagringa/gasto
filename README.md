@@ -2,8 +2,8 @@
 
 ### [UsodeDineroSemanal](https://megagringa.github.io/gasto/index.html)
 
-Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+Proyecto de un simulador de Gasto Semanal - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js para desarrollo y aprender. 
 
 
 ## Lenguajes y tecnologías.
@@ -11,9 +11,3 @@ Proyecto GastoSemanal: trabajado desde Udemy - El proyecto viene con una estruct
 - HTML5
 - CSS3: Materialize, Tailwind
 - JS(Javascript)
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Simulador de Gastos.
